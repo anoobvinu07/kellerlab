@@ -1,11 +1,31 @@
 ---
-title: "Keller Lab"
+about:
+  template: marquee
+  id: about-block
+  image: "img/LogoT_square.png"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/marvinschmitt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:srkeller@uvm.edu"  
 ---
 
-This is a Quarto website.
+# Welcome to Keller Lab!  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We study the interaction between genomic variation in natural populations and environmental change. Human impacts on the environment, such as climate change and biological invasions, can abruptly alter both the genetic and ecological context within which species evolve. We seek to characterize the effects of these events on the diversity and evolutionary potential within species, as well as their consequences for conservation and resource management. Our primary focus is on the genetics of forest trees and invasive plants, but we also work on other study systems with collaborators.  
 
-```{r}
-1 + 1
-```
+Many of our questions require a multidisciplinary approach, and thus the tools we use to address them are broad. We make use of modern genomic and computational approaches to examine molecular variation in the genome and the evolutionary history of populations. We also apply traditional techniques from quantitative genetics and ecological field experiments to measure the strength of natural selection and the functional divergence of populations. Finally, since many of our questions involve an explicitly spatial context, we use modeling for the analysis of environmental relationships.  
+
+***   
+
+Adaptation! Resilience! Diversity!  
+
+Our lab believes diversity is a key feature of both human and natural systems that are adaptable, resilient, and productive. In our research, teaching, and mentoring, we embrace people from diverse backgrounds, cultures, and experiences as we collaborate together on our shared goals. We also acknowledge the centuries-long exclusion of people of color, especially Black and Indigenous people, from the natural sciences, as well as of other groups underrepresented in the field. We work to create an anti-racist environment that includes and amplifies diverse viewpoints and perspectives, values our differences, and cultivates leadership at all levels.  
