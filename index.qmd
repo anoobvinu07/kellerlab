@@ -1,18 +1,22 @@
 ---
+format: 
+  html:
+    page-layout: full
 about:
   template: marquee
   id: about-block
-  image: "img/LogoT_square.png"
+  image: "img/Logo_website_update2.png"
+  
   links:
-    - icon: twitter
+    - icon: twitter-x
       text: Twitter
-      href: https://twitter.com/MarvinSchmittML
+      href: https://twitter.com/KellerLabUVM
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      href: https://github.com/stephenrkeller
+    - icon: person-workspace
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=cYPEa5gAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=anoobvinu%40gmail.com&gmla=AH70aAVqLOrQ5b9BPbTHUpP9gglg0_AK0-vMUcjYnYkeF1WHMg9hxr4Iea713LtelPL7ALJC53u6tmmlo9M1J9BGE3EPaesgXOXW0pnI0bkD-la-Z_VB_y15ceJF6ocwMiG4Wj83pIh-kL6TNplvLixnl28Y2e7ajdxkyjxFtTaIgso8BApPOW6Mrn_xQ-dH1QwuuqXBb6z45-9MH14ucVLMO_4AmzJYFvX7OYf7cj13-Ng
     - icon: envelope
       text: Email
       href: "mailto:srkeller@uvm.edu"  
@@ -26,6 +30,28 @@ Many of our questions require a multidisciplinary approach, and thus the tools w
 
 ***   
 
-Adaptation! Resilience! Diversity!  
+### Adaptation! Resilience! Diversity!  
 
 Our lab believes diversity is a key feature of both human and natural systems that are adaptable, resilient, and productive. In our research, teaching, and mentoring, we embrace people from diverse backgrounds, cultures, and experiences as we collaborate together on our shared goals. We also acknowledge the centuries-long exclusion of people of color, especially Black and Indigenous people, from the natural sciences, as well as of other groups underrepresented in the field. We work to create an anti-racist environment that includes and amplifies diverse viewpoints and perspectives, values our differences, and cultivates leadership at all levels.  
+
+::: {.callout-tip}
+## News!  
+
+#### NEW LAB MEMBERS  
+The lab is excited to welcome new members -- PhD student and recipient of a NSF-GRFP fellowship, Nora Heaphy, and post-bacc researcher and recipient of a DOE-ORISE fellowship, Rei Jia.  A big welcome to the Keller Lab!  
+
+*** 
+#### NEW PROJECT  
+Steve got funded by the [National Science Foundation Biodiversity on a Changing Planet program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326021)!  The project will investigate the biodiversity of alpine plants in the northeastern U.S. responding to climate change. Check out this article in the UVM-CALS newsletter to learn more:  
+
+​https://site.uvm.edu/cals-news/keller-receives-national-sciences-foundation-grant-for-alpine-plant-research/
+
+*** 
+#### RECRUITING  
+We will be recruiting one or more new PhD student(s) for the new alpine plant biodiversity project, to start in summer or fall of 2024. The research opportunities are interdisciplinary, including population genomics, field and common garden experiments, and genomic forecasting of climate change responses. Email me if you're interested!   
+
+:::  
+
+<center>
+<img src="img/UVM_logo_green.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.uvm.edu&apos;, &apos;blank&apos;);"/>
+<center>
