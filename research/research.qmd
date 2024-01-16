@@ -119,14 +119,10 @@ An assessment of the genome size, degree of introgression, and species traits re
 
 
 
------------------------------------------------------------------------- 
-
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> \| <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
 
 
+<center>
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">Sample button</a>
-</div>
-```
+<img src="../img/UVM_logo_green.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.uvm.edu&apos;, &apos;blank&apos;);"/>
+
+<center>

@@ -1,0 +1,9 @@
+---
+title: Publications
+---
+
+<center>
+
+<img src="../img/UVM_logo_green.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.uvm.edu&apos;, &apos;blank&apos;);"/>
+
+<center>

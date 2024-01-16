@@ -17,17 +17,20 @@ website:
     left:
       - text: "Research"
         href: research/research.qmd
-      - text: "Photos"
-        href: photos/photos.qmd
       - text: "People"
         href: people/people.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Photos"
+        href: photos/photos.qmd
+      
     
     # your social media handles
     right:
       - icon: twitter-x
         href: https://twitter.com/KellerLabUVM
       - icon: person-workspace
-        href: https://scholar.google.com/citations?hl=en&user=cYPEa5gAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=anoobvinu%40gmail.com&gmla=AH70aAVqLOrQ5b9BPbTHUpP9gglg0_AK0-vMUcjYnYkeF1WHMg9hxr4Iea713LtelPL7ALJC53u6tmmlo9M1J9BGE3EPaesgXOXW0pnI0bkD-la-Z_VB_y15ceJF6ocwMiG4Wj83pIh-kL6TNplvLixnl28Y2e7ajdxkyjxFtTaIgso8BApPOW6Mrn_xQ-dH1QwuuqXBb6z45-9MH14ucVLMO_4AmzJYFvX7OYf7cj13-Ng
+        href: https://scholar.google.com/citations?user=cYPEa5gAAAAJ&hl=en
       - icon: github
         href: https://github.com/stephenrkeller
       - icon: envelope
@@ -52,7 +55,6 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      dark: cyborg
       light: litera
     toc: true
     toc-depth: 4
