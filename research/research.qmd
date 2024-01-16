@@ -10,6 +10,8 @@ lightbox: true
 ---
 ::::: {.column-screen}
 
+:::::
+
 ## Hybridization and Adaptive Introgression
 <a>Status: Ongoing</a> \| <a>Publications</a><br>
 
@@ -128,4 +130,3 @@ An assessment of the genome size, degree of introgression, and species traits re
 <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">Sample button</a>
 </div>
 ```
-:::::
