@@ -1,10 +1,11 @@
-
+project:
+  type: website
+  output-dir: docs
 
 website:
   title: "Keller Lab"  
-  description: "The lab description... brief (here)"   # A brief slogan (optional)
+  description: "The lab website of Stephen R. Keller"
   image: img/LogoBlack_square.png
-  reader-mode: true
   favicon: img/LogoBlack_square.png
   
   # start of the navigation bar at the top of the website
@@ -15,11 +16,11 @@ website:
     # your sub-pages
     left:
       - text: "Research"
-        href: research/index.qmd
+        href: research/research.qmd
       - text: "Photos"
-        href: photos/index.qmd
+        href: photos/photos.qmd
       - text: "People"
-        href: people/index.qmd
+        href: people/people.qmd
     
     # your social media handles
     right:
@@ -42,20 +43,10 @@ website:
     type: textbox
   page-footer: 
     center: |
-      <span class="faux-block">&#169; 2023 Keller lab | Ecological Genomics</span>
+      <span class="faux-block">&#169; 2024 Keller lab | Ecological Genomics</span>
  
  
-project:
-  type: website
-  output-dir: docs
 
-  preview: 
-    browser: true
-    watch-inputs: true
-    navigate: true
-
-execute:
-  freeze: true
 
 format:
   html:
@@ -63,12 +54,8 @@ format:
     theme: 
       dark: cyborg
       light: litera
-      
-      # - pulse
-      # - html/styles.scss
-    toc: false
-    code-link: true
-    anchor-sections: true
-    fig-cap-location: margin
-    reference-location: margin
+    toc: true
+    toc-depth: 4
+    toc-title: ""
     footnotes-hover: true
+    highlight-style: tango

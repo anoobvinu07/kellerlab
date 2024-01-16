@@ -1,1 +1,7 @@
 /* css styles */
+
+/* Normal alignment */
+justify-content: normal;
+
+/* Positional alignment */
+justify-content: start; /* Pack items from the start */

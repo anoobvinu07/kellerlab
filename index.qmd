@@ -5,7 +5,7 @@ format:
 about:
   template: marquee
   id: about-block
-  image: "img/Logo_website_update2.png"
+  # image: "img/Logo_website_update2.png"
   
   links:
     - icon: twitter-x
@@ -22,36 +22,47 @@ about:
       href: "mailto:srkeller@uvm.edu"  
 ---
 
-# Welcome to Keller Lab!  
+:::{.column-screen}
+![](img/Logo_website_update2.png)
+:::
 
-We study the interaction between genomic variation in natural populations and environmental change. Human impacts on the environment, such as climate change and biological invasions, can abruptly alter both the genetic and ecological context within which species evolve. We seek to characterize the effects of these events on the diversity and evolutionary potential within species, as well as their consequences for conservation and resource management. Our primary focus is on the genetics of forest trees and invasive plants, but we also work on other study systems with collaborators.  
 
-Many of our questions require a multidisciplinary approach, and thus the tools we use to address them are broad. We make use of modern genomic and computational approaches to examine molecular variation in the genome and the evolutionary history of populations. We also apply traditional techniques from quantitative genetics and ecological field experiments to measure the strength of natural selection and the functional divergence of populations. Finally, since many of our questions involve an explicitly spatial context, we use modeling for the analysis of environmental relationships.  
+# Welcome to Keller Lab!
 
-***   
+We study the interaction between genomic variation in natural populations and environmental change. Human impacts on the environment, such as climate change and biological invasions, can abruptly alter both the genetic and ecological context within which species evolve. We seek to characterize the effects of these events on the diversity and evolutionary potential within species, as well as their consequences for conservation and resource management. Our primary focus is on the genetics of forest trees and invasive plants, but we also work on other study systems with collaborators.
 
-### Adaptation! Resilience! Diversity!  
+Many of our questions require a multidisciplinary approach, and thus the tools we use to address them are broad. We make use of modern genomic and computational approaches to examine molecular variation in the genome and the evolutionary history of populations. We also apply traditional techniques from quantitative genetics and ecological field experiments to measure the strength of natural selection and the functional divergence of populations. Finally, since many of our questions involve an explicitly spatial context, we use modeling for the analysis of environmental relationships.
 
-Our lab believes diversity is a key feature of both human and natural systems that are adaptable, resilient, and productive. In our research, teaching, and mentoring, we embrace people from diverse backgrounds, cultures, and experiences as we collaborate together on our shared goals. We also acknowledge the centuries-long exclusion of people of color, especially Black and Indigenous people, from the natural sciences, as well as of other groups underrepresented in the field. We work to create an anti-racist environment that includes and amplifies diverse viewpoints and perspectives, values our differences, and cultivates leadership at all levels.  
+------------------------------------------------------------------------
 
-::: {.callout-tip}
-## News!  
+### Adaptation! Resilience! Diversity!
 
-#### NEW LAB MEMBERS  
-The lab is excited to welcome new members -- PhD student and recipient of a NSF-GRFP fellowship, Nora Heaphy, and post-bacc researcher and recipient of a DOE-ORISE fellowship, Rei Jia.  A big welcome to the Keller Lab!  
+Our lab believes diversity is a key feature of both human and natural systems that are adaptable, resilient, and productive. In our research, teaching, and mentoring, we embrace people from diverse backgrounds, cultures, and experiences as we collaborate together on our shared goals. We also acknowledge the centuries-long exclusion of people of color, especially Black and Indigenous people, from the natural sciences, as well as of other groups underrepresented in the field. We work to create an anti-racist environment that includes and amplifies diverse viewpoints and perspectives, values our differences, and cultivates leadership at all levels.
 
-*** 
-#### NEW PROJECT  
-Steve got funded by the [National Science Foundation Biodiversity on a Changing Planet program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326021)!  The project will investigate the biodiversity of alpine plants in the northeastern U.S. responding to climate change. Check out this article in the UVM-CALS newsletter to learn more:  
+::: callout-tip
+## News!
+
+#### NEW LAB MEMBERS
+
+The lab is excited to welcome new members -- PhD student and recipient of a NSF-GRFP fellowship, Nora Heaphy, and post-bacc researcher and recipient of a DOE-ORISE fellowship, Rei Jia. A big welcome to the Keller Lab!
+
+------------------------------------------------------------------------
+
+#### NEW PROJECT
+
+Steve got funded by the [National Science Foundation Biodiversity on a Changing Planet program](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326021)! The project will investigate the biodiversity of alpine plants in the northeastern U.S. responding to climate change. Check out this article in the UVM-CALS newsletter to learn more:
 
 ​https://site.uvm.edu/cals-news/keller-receives-national-sciences-foundation-grant-for-alpine-plant-research/
 
-*** 
-#### RECRUITING  
-We will be recruiting one or more new PhD student(s) for the new alpine plant biodiversity project, to start in summer or fall of 2024. The research opportunities are interdisciplinary, including population genomics, field and common garden experiments, and genomic forecasting of climate change responses. Email me if you're interested!   
+------------------------------------------------------------------------
 
-:::  
+#### RECRUITING
+
+We will be recruiting one or more new PhD student(s) for the new alpine plant biodiversity project, to start in summer or fall of 2024. The research opportunities are interdisciplinary, including population genomics, field and common garden experiments, and genomic forecasting of climate change responses. Email me if you're interested!
+:::
 
 <center>
+
 <img src="img/UVM_logo_green.png" style="height: 25%; width: 25%; object-fit: contain" onclick="window.open(&apos;https://www.uvm.edu&apos;, &apos;blank&apos;);"/>
+
 <center>
