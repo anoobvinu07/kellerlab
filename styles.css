@@ -1,7 +1,8 @@
 /* css styles */
+text-justify: auto;
 
 /* Normal alignment */
-justify-content: normal;
+justify-content: space-between;
 
-/* Positional alignment */
-justify-content: start; /* Pack items from the start */
+/* Distributed alignment */
+justify-content: stretch; 
