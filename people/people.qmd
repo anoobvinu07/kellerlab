@@ -11,10 +11,9 @@ title: "People"
 
 
 ### Dr. Stephen Keller
-**Associate Professor**  
-[CV](https://www.uvm.edu/~kellrlab/LabWebsite/SRKeller_CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=cYPEa5gAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Stephen-Keller-3) \| [email](srkeller@uvm.edu) 
+**Associate Professor** \| [![email](email.png)](mailto:srkeller@uvm.edu) \| [![Research Gate](researchgate.svg)](https://www.researchgate.net/profile/Stephen-Keller-3) \| [![Google Scholar](googlescholar.svg)](https://scholar.google.com/citations?user=cYPEa5gAAAAJ&hl=en) \| [![CV](CV.png)](https://www.uvm.edu/~kellrlab/LabWebsite/SRKeller_CV.pdf)
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -24,7 +23,7 @@ title: "People"
 ![](srkeller.jpg){height=50%}
 ::: 
 
-Steve got his B.S. from Juniata College in Pennsylvania before working as a biologist for the National Park Service in Colorado. From there, he ventured northward to do a master's in biology at the University of Alaska Fairbanks with Kent Schwaegerle, where he studied breeding system evolution in arctic-alpine plants. Steve got his Ph.D. at the University of Virginia with Doug Taylor on the population genetics of invasive species, followed by postdoc research at the University of Minnesota in Peter Tiffin's lab working on population genomics in Populus. After three years (2011-2014) on the faculty at the University of Maryland Center for Environmental Science, Steve joined the Department of Plant Biology at the University of Vermont. 
+Steve got his B.S. from Juniata College in Pennsylvania before working as a biologist for the National Park Service in Colorado. From there, he ventured northward to do a master's in biology at the University of Alaska Fairbanks with Kent Schwaegerle, where he studied breeding system evolution in arctic-alpine plants. Steve got his Ph.D. at the University of Virginia with Doug Taylor on the population genetics of invasive species, followed by postdoc research at the University of Minnesota in Peter Tiffin's lab working on population genomics in Populus. After three years (2011-2014) on the faculty at the [University of Maryland Center for Environmental Science](https://www.umces.edu), Steve joined the Department of [Plant Biology at the University of Vermont](https://www.uvm.edu/cals/plantbiology). 
 
 
 ::::  
@@ -33,10 +32,10 @@ Steve got his B.S. from Juniata College in Pennsylvania before working as a biol
 
 
 ### Nora Heaphy
-**Ph.D. Student**  
-[email](nora.heaphy@uvm.edu) 
+**Ph.D. Student** \| [![email](email.png)](mailto:nora.heaphy@uvm.edu)
 
-***
+
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -47,17 +46,16 @@ Steve got his B.S. from Juniata College in Pennsylvania before working as a biol
 ::: 
 |
 |
-Nora is interested in how plant live in stressful environments (especially in the Middle East and North Africa), if and how they will adapt to climate change, and how genetic factors interact with the environment to shape evolutionary trajectories. She completed her B.S. in Ecology and Evolutionary Biology at Yale, then worked as a research assistant in Erika Edwards’ lab, studying climate niche differentiation and convergent evolution in Portulaca and Viburnum. Before joining the Keller lab in 2023, she lived in Egypt and studied Arabic at the American University in Cairo. 
+Nora is interested in how plant live in stressful environments (especially in the Middle East and North Africa), if and how they will adapt to climate change, and how genetic factors interact with the environment to shape evolutionary trajectories. She completed her B.S. in Ecology and Evolutionary Biology at Yale, then worked as a research assistant in [Erika Edwards’ lab](http://edwardslab.org), studying climate niche differentiation and convergent evolution in Portulaca and Viburnum. Before joining the Keller lab in 2023, she lived in Egypt and studied Arabic at the American University in Cairo. 
 
 
 ::::: 
 
 
 ### Anoob Prakash
-**Ph.D. Student**  
-[Google Scholar](https://scholar.google.com/citations?user=jIOSRMkAAAAJ&hl=en) \| [Research Gate](https://www.researchgate.net/profile/Anoob-Prakash) \| [email](anoob.prakash@uvm.edu) 
+**Ph.D. Student** \| [![email](email.png)](mailto:anoob.prakash@uvm.edu) \| [![Research Gate](researchgate.svg)](https://www.researchgate.net/profile/Anoob-Prakash) \| [![Google Scholar](googlescholar.svg)](https://scholar.google.com/citations?user=jIOSRMkAAAAJ&hl=en) 
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -68,16 +66,15 @@ Nora is interested in how plant live in stressful environments (especially in th
 ![](anoob_prakash.jpg)
 ::: 
 
-Anoob is interested in understanding the genomics and adaptation of fragmented ecosystem to rapid climate warming. For his PhD research, Anoob is investigating range wide variation and climate change adaptation in red spruce (Picea rubens Sarg). Specifically, he utilizes population genomic and quantitative genetic approaches to understand the long- and short-term responses of long-lived tree species like red spruce to climate change and pave the way for scientifically guided conservation efforts. As part of bridging the gap between science and restoration, he did restoration monitoring of red spruce with The Nature Conservancy (TNC) as part of his NSF-funded UVM QuEST internship. Before joining Keller lab in 2018, he completed his B.Sc. (Hons.) and M.Sc. in Forestry with specialization in Tree Physiology and Breeding at Kerala Agricultural University. During that time, he investigated the effects of particulate pollution on the growth and physiology of trees in moist deciduous forests. 
+Anoob is interested in understanding the genomics and adaptation of fragmented ecosystem to rapid climate warming. For his PhD research, Anoob is investigating range wide variation and climate change adaptation in red spruce (Picea rubens Sarg). Specifically, he utilizes population genomic and quantitative genetic approaches to understand the long- and short-term responses of long-lived tree species like red spruce to climate change and pave the way for scientifically guided conservation efforts. As part of bridging the gap between science and restoration, he did restoration monitoring of red spruce with The Nature Conservancy (TNC) as part of his NSF-funded [UVM QuEST](https://www.uvm.edu/quest) internship. Before joining Keller lab in 2018, he completed his B.Sc. (Hons.) and M.Sc. in Forestry with specialization in Tree Physiology and Breeding at Kerala Agricultural University. During that time, he investigated the effects of particulate pollution on the growth and physiology of trees in moist deciduous forests. 
 
 
 ::::  
 
 ### Baxter Worthing
-**Ph.D. Student**  
-[email](baxter.worthing@uvm.edu) 
+**Ph.D. Student** \| [![email](email.png)](mailto:baxter.worthing@uvm.edu)  
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -95,10 +92,9 @@ Baxter uses genetics and genomics to study two species of poplar tree: balsam po
 
 
 ### Angelica Golbin
-**Undergraduate Student**  
-[email](agolbin@uvm.edu) 
+**Undergraduate Student** \| [![email](email.png)](mailto:agolbin@uvm.edu) 
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -114,10 +110,9 @@ Angelica is an Environmental Sciences major and Molecular Genetics minor who joi
 ::::
 
 ### Katie Nelson
-**Undergraduate Student**  
-[email](katie.nelson@uvm.edu) 
+**Undergraduate Student** \| [![email](email.png)](mailto:katie.nelson@uvm.edu)  
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -132,10 +127,9 @@ Katie is a Plant Biology major and Chemistry minor who joined the lab in 2022. S
 ::::
 
 ### Rei Jia
-**ORISE Post-Bacc Fellow**  
-[email](grace.jia@uvm.edu) 
+**ORISE Post-Bacc Fellow** \| [![email](email.png)](mailto:grace.jia@uvm.edu)   
 
-***
+
 ::::: {.column-screen-inset-shaded}
 
 
@@ -144,7 +138,7 @@ Katie is a Plant Biology major and Chemistry minor who joined the lab in 2022. S
 |
 ![](rei_jia.jpg)
 ::: 
-Rei is a U.S. Department of Energy ORISE Fellow at the U.S. Forest Service Northeast Research Station working in the lab of Dr. Andrew Groover. She graduated from the University of Vermont with a B.S. in Wildlife Biology and earned a M.S. in Biology from Tufts University in 2023. While at Tufts, she worked in Dr. Benjamin Wolfe’s lab researching plant and soil microbiology. While an ORISE fellow with Andrew, she has been an honorary member of the Keller Lab, participating in lab group discussions and activities in the field and lab, particularly on extracting RNA from poplar leaf tissue to look at transcriptomic response to cold stress.   
+Rei is a [U.S. Department of Energy ORISE Fellow](https://orise.orau.gov/internships-fellowships/index.html) at the U.S. Forest Service Northeast Research Station working in the lab of [Dr. Andrew Groover](https://www.fs.usda.gov/research/about/people/agroover). She graduated from the University of Vermont with a B.S. in Wildlife Biology and earned a M.S. in Biology from Tufts University in 2023. While at Tufts, she worked in Dr. Benjamin Wolfe’s lab researching plant and soil microbiology. While an ORISE fellow with Andrew, she has been an honorary member of the Keller Lab, participating in lab group discussions and activities in the field and lab, particularly on extracting RNA from poplar leaf tissue to look at transcriptomic response to cold stress.   
 
 ::::
 
