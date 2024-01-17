@@ -1,10 +1,11 @@
 ---
 title: "People"
 ---
+<center>
 :::{.column-screen}
 ![](group_photo_banner.jpg)
 :::
-
+</center>
 
 
 # Keller Labbies

@@ -1,5 +1,5 @@
 ---
-title: "On going research..."
+title: "Research"
 format: 
   html:
     page-layout: full
@@ -8,6 +8,18 @@ format:
 
 lightbox: true
 ---
+
+<center>
+:::{.column-screen-inset-shaded}  
+![](researchbanner.jpg)
+
+
+### Forest Tree Adaptation to Climate in Red Spruce and Poplar • Invasive Species • Conservation Genetics  
+:::::  
+
+
+</center>
+
 ::::: {.column-screen}
 
 :::::
