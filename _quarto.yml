@@ -29,7 +29,7 @@ website:
     right:
       - icon: twitter-x
         href: https://twitter.com/KellerLabUVM
-      - icon: person-workspace
+      - icon: google
         href: https://scholar.google.com/citations?user=cYPEa5gAAAAJ&hl=en
       - icon: github
         href: https://github.com/stephenrkeller
@@ -37,7 +37,7 @@ website:
         aria-label: email
         href: "mailto:srkeller@uvm.edu"
         
-  
+  # person-workspace
   
 
 # Don't touch unless you know what you are doing :) ------------
@@ -46,7 +46,7 @@ website:
     type: textbox
   page-footer: 
     center: |
-      <span class="faux-block">&#169; 2024 Keller lab | Ecological Genomics</span>
+      <span class="faux-block">&#169; Copyright 2024, Keller lab | Ecological Genomics</span>
  
  
 
@@ -55,7 +55,8 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      light: litera
+      # - litera
+      - style2.scss
     toc: true
     toc-depth: 4
     toc-title: ""

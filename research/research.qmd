@@ -1,5 +1,6 @@
 ---
 title: "Research"
+subtitle: "Broader research topics investigated in the lab" 
 format: 
   html:
     page-layout: full
@@ -10,16 +11,17 @@ lightbox: true
 ---
 
 <center>
-:::{.column-screen-inset-shaded}  
+:::{.column-screen-inset}  
 ![](researchbanner.jpg)
 
 
-### Forest Tree Adaptation to Climate in Red Spruce and Poplar • Invasive Species • Conservation Genetics  
+  
 :::::  
 
 
 </center>
 
+#### Forest Tree Adaptation to Climate in Red Spruce and Poplar • Invasive Species • Conservation Genetics
 ::::: {.column-screen}
 
 :::::
