@@ -1,5 +1,107 @@
 ---
-title: "Photos"
-
+title: ""
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 20px
+      # body-width: 1200px
+      margin-width: 20px
+      gutter-width: 1.5rem
+    toc: false
+    
+lightbox: true
 ---
 
+## Planting the Common Gardens  
+
+::: {.grid}
+
+::: {.g-col-3}
+|
+|
+![up with the radio towers on top of Mt. Mansfield](./planting_the_common_gardens/4e384fa1-5cb0-4362-afac-0c6971f5b7d7.jpeg){group="common-garden"}
+
+:::
+
+
+
+::: {.g-col-3}
+![measuring intial height](./planting_the_common_gardens/efcbkfma.jpeg){group="common-garden"}
+:::
+
+::: {.g-col-4}
+|
+|
+![a flight of spruce](./planting_the_common_gardens/ekwdhm1g.jpeg){group="common-garden"}
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+|
+|
+![toiling in the sun](./planting_the_common_gardens/img-20190607-124055-1.jpg){group="common-garden"}
+
+:::
+
+
+
+::: {.g-col-4}
+![digging, then filling in, 1,098 holes for the new poplar garden](./planting_the_common_gardens/img-20190605-145017-1.jpg){group="common-garden"}
+:::
+
+::: {.g-col-3}
+|
+|
+![our mobile watering system](./planting_the_common_gardens/img-20190607-135618_2.jpg){group="common-garden"}
+:::
+
+:::
+
+## Lab Outings  
+
+::: {.grid}
+
+::: {.g-col-4}
+|
+|
+![up with the radio towers on top of Mt. Mansfield](./planting_the_common_gardens/4e384fa1-5cb0-4362-afac-0c6971f5b7d7.jpeg){group="common-garden"}
+
+:::
+
+
+
+::: {.g-col-4}
+![measuring intial height](./planting_the_common_gardens/efcbkfma.jpeg){group="common-garden"}
+:::
+
+::: {.g-col-4}
+|
+|
+![a flight of spruce](./planting_the_common_gardens/ekwdhm1g.jpeg){group="common-garden"}
+:::
+
+:::
+
+
+
+
+
+
+::: {grid}
+
+
+::: {.g-col-4}
+![a flight of spruce](./planting_the_common_gardens/ekwdhm1g.jpeg){group="common-garden"}
+:::
+
+::: {.g-col-6}
+![a flight of spruce](./planting_the_common_gardens/ekwdhm1g.jpeg){group="common-garden"}
+:::
+
+
+:::

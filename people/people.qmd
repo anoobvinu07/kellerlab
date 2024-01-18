@@ -1,15 +1,16 @@
 ---
-title: "People"
-subtitle: "Meet the labbies" 
----
+title: "Meet the Keller labbies"
+subtitle: "~ the past, the present and the future collaborators " 
+---  
+
+
+
 <center>
 :::{.column-screen}
 ![](group_photo_banner.jpg)
 :::
 </center>
 
-
-# Keller Labbies
 
 
 ### Dr. Stephen Keller

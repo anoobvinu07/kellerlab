@@ -1,6 +1,6 @@
 ---
-title: "Research"
-subtitle: "Broader research topics investigated in the lab" 
+title: "Adaptation and response to environmental stressor's"
+subtitle: "~ the questions that drive us to serve the environment" 
 format: 
   html:
     page-layout: full
@@ -8,7 +8,11 @@ format:
       margin-width: 500px
 
 lightbox: true
----
+---  
+
+
+
+
 
 <center>
 :::{.column-screen-inset}  
@@ -21,7 +25,8 @@ lightbox: true
 
 </center>
 
-#### Forest Tree Adaptation to Climate in Red Spruce and Poplar • Invasive Species • Conservation Genetics
+
+
 ::::: {.column-screen}
 
 :::::

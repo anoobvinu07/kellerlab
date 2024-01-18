@@ -1,8 +1,11 @@
 ---
-title: Publications
-subtitle: "Publications from Keller et al." 
----
-::::: {.column-screen-inset-shaded}
+title: "Scientific output from the lab"
+subtitle: "~ the results of our curiosity" 
+---  
+
+
+*** 
+
 # Pre-prints or manuscripts in review:  
 :::: {.column-default}
 
@@ -22,13 +25,12 @@ subtitle: "Publications from Keller et al."
 4. Chhatre, V.E., K.C. Fetter, A.V. Gougherty, M.C. Fitzpatrick, R.Y. Soolanayakanahally, R.S. Zalensy, and ***S.R. Keller***. Climatic niche predicts the landscape structure of locally adaptive standing genetic variation. In revision for Communications Biology. bioRxiv preprint: https://doi.org/10.1101/817411
 
 :::  
-
 ::::
 ::::
 
-::::: 
 
 
+***  
 
 # Published
 
