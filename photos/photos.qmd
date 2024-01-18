@@ -13,6 +13,9 @@ format:
 lightbox: true
 ---
 
+<!-- [course website](https://samanthacsik.github.io/EDS-240-data-viz/){.btn target=_blank} [course catalog](https://bren.ucsb.edu/courses/eds-240){.btn target=_blank} -->
+
+
 ## Planting the Common Gardens  
 
 ::: {.grid}
