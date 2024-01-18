@@ -2,12 +2,13 @@
 format: 
   html:
     page-layout: full
+    toc: false
 # image: "img/Logo_website_update2.png"
 title: ""
 about:
   template: marquee
   id: about-block
-
+  
   
   links:
     - icon: twitter-x
