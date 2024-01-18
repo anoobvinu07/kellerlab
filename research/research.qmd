@@ -1,6 +1,6 @@
 ---
-title: "Adaptation and response to environmental stressor's"
-subtitle: "~ the questions that drive us to serve the environment" 
+title: "Adaptation and response to environmental change"
+subtitle: "~ the questions that drive us" 
 format: 
   html:
     page-layout: full
@@ -45,8 +45,8 @@ One current area of interest in the Keller lab is the susceptibility of hybrid p
 
 
 ::: {.column-margin}
-Black spruce hybridization in the pacific north-west.
-![Black spruce hybridization in the pacific north-west.](poplar_introgression.jpg){.lightbox group="poplar"}  
+Poplar hybridization in the Pacific Northwest.
+![Poplar hybridization in the Pacific Northwest.](poplar_introgression.jpg){.lightbox group="poplar"}  
 
 :::
 
@@ -74,10 +74,11 @@ Black spruce hybridization in the pacific north-west.
 :::: {layout="[ 100, 0 ]"}
 
 ::: {#first-column}
-Forecasting the responses of populations to climate change is a complex but important issue to understand as we face the potential for widespread climate maladaptation in the coming decades. This hits especially hard for long-lived, sessile organisms like forest trees, whose long-generation times and limited dispersal potential constrain the ability to adapt or track shifting climate. Recently, there has been increasing interest in combining genomics with climate models to forecast the short-term impacts of climate change on population adaptation. Our lab, in close collaboration with [Matt Fitzaptrick’s lab](https://mfitzpatrick.al.umces.edu/Site/Welcome.html) has been developing computational approaches to predict short-term disruption of climate adaptation, known as “genomic offset” modelling. Since first introducing the concept and statistical framework for genomic offset in 2015 (Fitzpatrick and Keller 2015), we have worked to refine and extend the scope and application of offset models to predicting climate change maladaptation. This has involved simulation testing of genomic offset predictions, in collaboration with [Katie Lotterhos’ lab](https://sites.google.com/site/katielotterhos/home), as well as testing the sensitivity of offset models to model choices such as the genomic loci used and the climate variables and future projection scenarios (Lachmuth et al. 2023, Frontiers).  
+Forecasting the responses of populations to climate change is a complex but important issue to understand as we face the potential for widespread climate maladaptation in the coming decades. This hits especially hard for long-lived, sessile organisms like forest trees, whose long-generation times and limited dispersal potential constrain the ability to adapt or track shifting climate. Recently, there has been increasing interest in combining genomics with climate models to forecast the short-term impacts of climate change on population adaptation. Our lab, in close collaboration with [Matt Fitzaptrick’s lab](https://mfitzpatrick.al.umces.edu/Site/Welcome.html) has been developing computational approaches to predict near-term disruption of climate adaptation and predicted loss of local adaptation, known as “genomic offset” modelling. 
 
+Since first introducing the concept and statistical framework for genomic offset (Fitzpatrick and Keller 2015), we have worked to refine and extend the scope and application of genomic offset models (Keller et al. 2017; Gougherty et al. 2018; Capblancq et al. 2020; Lachmuth et al. 2023; Eco Mon). We have also been working to address some of the sources of uncertainty using truth-known simulation testing of genomic offset predictions (Laruson et al. 2022), in collaboration with [Katie Lotterhos’ lab](https://sites.google.com/site/katielotterhos/home), as well as testing the sensitivity various model choices such as the choice of genomic loci, the set of climate variables, and choice of future climate projection scenarios (Lachmuth et al. 2023, Frontiers).  
 
-In addition to building and refining the computational pipeline of genomic offset for forecasting climate change responses, our lab has been working on empirical testing of offset predictions, using a space-for-time approach that evaluates the effect of transferring genotypes from their source climate into one or more common garden sites, and predicting growth and fitness-traits from genomic offsets calculated between the source and garden site climates. Using poplar trees as a study system, we provided the first such common garden test of offset predictions, showing a strong negative response of growth with increasing genomic offset (Fitzpatrick et al. 2021). We have recently shown a similar result in red spruce (Picea rubens) across 3 seedling common gardens (Lachmuth et al. 2023; Eco Mon), as well as in a 60 year old red spruce provenance trial in northern New Hampshire (Verrico et al., in prep.). 
+Ultimately, the determination of whether offset models are any good will have to be done under natural settings using carefully designed validation tests with real populations. Our lab has been working on empirical testing of offset predictions, using a space-for-time approach that evaluates the effect of transferring genotypes from their source climate into one or more common garden sites, and predicting growth and fitness-traits from genomic offsets calculated between the source and garden site climates. Using poplar trees as a study system, we provided the first such common garden test of offset predictions, showing a strong negative response of growth with increasing genomic offset (Fitzpatrick et al. 2021). More recently, we've shown a similar result in red spruce (Picea rubens) across 3 seedling common gardens (Lachmuth et al. 2023; Eco Mon), as well as in a 60 year old red spruce provenance trial in northern New Hampshire (Verrico et al., in prep.). 
 
 ::: 
 
