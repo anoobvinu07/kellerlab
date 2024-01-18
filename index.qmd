@@ -30,7 +30,7 @@ about:
 :::
 
 
-# Welcome to Keller Lab!
+# Welcome to the Keller Lab!
 
 We study the interaction between genomic variation in natural populations and environmental change. Human impacts on the environment, such as climate change and biological invasions, can abruptly alter both the genetic and ecological context within which species evolve. We seek to characterize the effects of these events on the diversity and evolutionary potential within species, as well as their consequences for conservation and resource management. Our primary focus is on the genetics of forest trees and invasive plants, but we also work on other study systems with collaborators.
 
@@ -44,6 +44,22 @@ Our lab believes diversity is a key feature of both human and natural systems th
 
 ::: callout-tip
 ## News!
+
+#### CALL FOR PAPERS IN AM. NAT. FOR A SPECIAL FEATURE ON GENOMIC FORECASTING
+
+We're excited to announce a call for papers on the topic of genomic forecasting of climate (mal)adaptation, organized as a [Special Feature in the American Naturalist](https://www.amnat.org/announcements/genomic-forecasting-feature.html)!.  Katie Lotterhos, Matt Fitzpatrick, and Steve will be serving as Editors for the issue.  Deadline for submissions is Oct 01, 2024!
+
+------------------------------------------------------------------------
+
+#### CONFERENCE NEWS
+
+Congrats to Nora for winning best poster at the 2023 Forest Ecosystem Monitoring Conference! She presented on her rotation work using genomic offset modeling to identify potential donor red spruce trees for collecting scions (branches used in grafting) to be used for establishing a climate-smart seed orchard.
+
+Anoob and Steve are headed to Stockholm to present at the [IUFRO 2024 World Congress](https://iufro2024.com)! in June. It will be part of a symposium Steve is helping to organize, titled "The impact of introgressive hybridization on adaptive capacity of forest trees in the Anthropocene." 
+
+Lastly, stay tuned for an annoucement for an upcoming symposium on predicitng rapid evolution to cliamte change at the [3rd Joint Congress on Evolutionary Biology](https://www.evolutionmeetings.org)! in Montreal
+
+------------------------------------------------------------------------
 
 #### NEW LAB MEMBERS
 
