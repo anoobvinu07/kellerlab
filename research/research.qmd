@@ -15,14 +15,9 @@ lightbox: true
 
 
 <center>
-:::{.column-screen-inset}  
+:::{.column-screen}
 ![](researchbanner.jpg)
-
-
-  
-:::::  
-
-
+:::
 </center>
 
 
