@@ -7,7 +7,7 @@ format:
     grid:
       margin-width: 500px
 
-lightbox: true
+lightbox: auto
 ---  
 
 
@@ -16,7 +16,7 @@ lightbox: true
 
 <center>
 :::{.column-screen}
-![](researchbanner.jpg)
+![](website_banner_research_transparent_background.png){.no-lightbox}
 :::
 </center>
 
