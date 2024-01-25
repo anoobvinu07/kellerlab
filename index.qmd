@@ -4,7 +4,7 @@ format:
     page-layout: full
     toc: false
 # image: "img/Logo_website_update2.png"
-title: ""
+#title: "Home"
 about:
   template: marquee
   id: about-block
