@@ -19,7 +19,7 @@ format:
 
 ## Building the Common Gardens   
 
-
+::::{.column-screen}
 ::: {layout-ncol=4}   
 
 ![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){.lightbox group="NSFgarden"}
@@ -34,5 +34,6 @@ format:
 ![](building_the_common_gardens/soil-delivery-1.jpg){.lightbox group="NSFgarden"}
 ![](building_the_common_gardens/unnamed_2.jpg){.lightbox group="NSFgarden"}
 :::
+::::
 
 ![](./building_the_common_gardens_collage2.png){.lightbox group="common-garden"}
