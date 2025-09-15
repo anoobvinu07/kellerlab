@@ -94,7 +94,7 @@ Baxter uses genetics and genomics to study two species of poplar tree: balsam po
 ::::
 
 ### Rei Jia
-**ORISE Post-Bacc Fellow** \| [![email](email.png)](mailto:grace.jia@uvm.edu)   
+**Ph.D. Student** \| [![email](email.png)](mailto:grace.jia@uvm.edu)   
 
 
 ::::: {.column-screen}
@@ -128,7 +128,7 @@ Christa is interested in studying population genomics to contribute to the knowl
 
 ::::
 
-
+------------------------------------------------------------------------ 
 ::::: {.column-screen-inset-shaded}  
 
 :::: {.column-default}
