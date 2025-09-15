@@ -17,8 +17,10 @@ format:
 
 ![](./planting_common_garden_collage2.png){group="common-garden"}
 
-## Building the Common Gardens  
-::: {layout-ncol=5}
+## Building the Common Gardens   
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}  
+
 ![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){.lightbox group="NSFgarden"}
 ![We would be lost without John](building_the_common_gardens/function.jpg){.lightbox group="NSFgarden"}
 ![Lab team](building_the_common_gardens/group-photo.jpg){.lightbox group="NSFgarden"}
