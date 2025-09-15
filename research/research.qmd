@@ -28,7 +28,7 @@ lightbox: auto
 
 ::: {.column-margin}  
 Poplar hybridization in the Pacific Northwest.  
-![Poplar hybridization in the Pacific Northwest.](poplar_introgression.jpg)   
+![Poplar hybridization in the Pacific Northwest.](poplar_introgression.jpg){.lightbox group="Introgression"}   
 
 :::
 
