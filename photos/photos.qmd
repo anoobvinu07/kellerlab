@@ -20,7 +20,7 @@ format:
 ## Building the Common Gardens   
 
 ::::{.column-screen}
-::: {layout-ncol=4}   
+::: {layout-ncol=6}   
 
 ![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){.lightbox group="NSFgarden"}
 ![We would be lost without John](building_the_common_gardens/function.jpg){.lightbox group="NSFgarden"}
