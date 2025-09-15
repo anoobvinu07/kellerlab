@@ -7,13 +7,13 @@ subtitle: "~ the past, the present and the future collaborators "
 
 <center>
 :::{.column-screen}
-![](group_photo_banner.jpg)
+![](keller_lab_2025_banner.png)
 :::
 </center>
 
 
 
-### Dr. Stephen Keller
+### Dr. Stephen Keller  
 **Associate Professor** \| [![email](email.png)](mailto:srkeller@uvm.edu) \| [![Research Gate](researchgate.svg)](https://www.researchgate.net/profile/Stephen-Keller-3) \| [![Google Scholar](googlescholar.svg)](https://scholar.google.com/citations?user=cYPEa5gAAAAJ&hl=en) \| [![CV](CV.png)](https://www.uvm.edu/~kellrlab/LabWebsite/SRKeller_CV.pdf)
 
 
@@ -31,7 +31,8 @@ Steve got his B.S. from Juniata College in Pennsylvania before working as a biol
 
 ::::  
 
- 
+
+## Graduate Students  
 
 
 ### Nora Heaphy
@@ -92,41 +93,6 @@ Baxter uses genetics and genomics to study two species of poplar tree: balsam po
 
 ::::
 
-
-### Angelica Golbin
-**Undergraduate Student** \| [![email](email.png)](mailto:agolbin@uvm.edu) 
-
-
-::::: {.column-screen}
-
-
-::: {.column-margin}
-
-|
-|
-![](angelica_golbin.jpg)
-::: 
-
-Angelica is an Environmental Sciences major and Molecular Genetics minor who joined the lab in 2021.She was awarded the Summer Undergraduate Research Fellowship in 2022, where she investigated how hybridization can transfer useful genes in poplars to generate offspring that show hybrid vigor under heat and drought stress. Building off of her summer research, Angelica is working on her thesis to investigate a candidate gene associated with adaptive introgression in admixed poplar. 
-
-::::
-
-### Katie Nelson
-**Undergraduate Student** \| [![email](email.png)](mailto:katie.nelson@uvm.edu)  
-
-
-::::: {.column-screen}
-
-
-::: {.column-margin}
-
-![](katie_nelson.png)
-::: 
-|
-Katie is a Plant Biology major and Chemistry minor who joined the lab in 2022. She is currently investigating how the infection of poplars with Melampsora rust fungi is affected by local climate, and how historic climate conditions have influenced the evolution of traits associated with disease resistance.   
-
-::::
-
 ### Rei Jia
 **ORISE Post-Bacc Fellow** \| [![email](email.png)](mailto:grace.jia@uvm.edu)   
 
@@ -143,11 +109,40 @@ Rei is a [U.S. Department of Energy ORISE Fellow](https://orise.orau.gov/interns
 
 ::::
 
+  
+## Lab Technician  
+
+### Christa Lessing
+**Lab Research Technician** \| [![email](email.png)](mailto:christa.lessing@uvm.edu)  
+
+
+::::: {.column-screen}
+
+
+::: {.column-margin}
+
+![](christa_lessing.jpg)
+::: 
+|
+Christa is interested in studying population genomics to contribute to the knowledge that helps people make informed decisions to protect our landscapes in a changing climate. Since joining the lab as a technician in 2024, she worked on the alpine population genetics project, a spruce hybridization project, an assisted migration project, and a poplar gene expression project. She strives to support the other members of the lab, whether through field sample collection across the north east, wet lab procedures, plant propagation, or general lab management. Before joining the Keller lab, she completed her BS in Plant Biology at UVM in 2023. As an undergraduate, she worked on a _Brachypodium vernalization_ genetics project in the Preston Lab. She has also worked in the Connecticut Agricultural Experiment Station and for the Vermont Agency of Agriculture, Food and Markets.     
+
+::::
+
 
 ::::: {.column-screen-inset-shaded}  
 
 :::: {.column-default}
-# Past Keller labbies  
+## Past Keller labbies  
+
+### Angelica Golbin  
+**Undergraduate Student**  
+
+Angelica is an Environmental Sciences major and Molecular Genetics minor who joined the lab in 2021.She was awarded the Summer Undergraduate Research Fellowship in 2022, where she investigated how hybridization can transfer useful genes in poplars to generate offspring that show hybrid vigor under heat and drought stress. Building off of her summer research, Angelica worked on her thesis to investigate a candidate gene associated with adaptive introgression in admixed poplar.  
+
+### Katie Nelson  
+**Undergraduate Student**  
+
+Katie graduated with Plant Biology major and Chemistry minor and joined the lab in 2022. She investigated how the infection of poplars with Melampsora rust fungi is affected by local climate, and how historic climate conditions have influenced the evolution of traits associated with disease resistance.  
 
 ### Katie Bardsley  
 **Undergraduate Student**  

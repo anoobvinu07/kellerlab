@@ -46,11 +46,13 @@ website:
     type: textbox
   page-footer: 
     center: |
-      <span class="faux-block">&#169; Copyright 2024, Keller lab | Ecological Genomics</span>
+      <span class="faux-block">
+      © Copyright <span id="year"></span>, Keller lab | Ecological Genomics
+      </span>
+      <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+      </script>
  
- 
-
-
 format:
   html:
     fontsize: 1.1em
