@@ -5,8 +5,7 @@ format:
     page-layout: full
 
     toc: true
-    
-lightbox: true
+    lightbox: auto
 ---
 
 <!-- [course website](https://samanthacsik.github.io/EDS-240-data-viz/){.btn target=_blank} [course catalog](https://bren.ucsb.edu/courses/eds-240){.btn target=_blank} -->
@@ -15,8 +14,22 @@ lightbox: true
 ## Planting the Common Gardens  
 
 
+
 ![](./planting_common_garden_collage2.png){group="common-garden"}
 
 ## Building the Common Gardens  
+::: {layout-ncol=3}
+![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){group="NSFgarden"}
+![We would be lost without John](building_the_common_gardens/function.jpg){group="NSFgarden"}
+![Lab team](building_the_common_gardens/group-photo.jpg){group="NSFgarden"}
+![](building_the_common_gardens/img-20180924-114625095_1.jpg){group="NSFgarden"}
+![12,000 pounds of soil!!](building_the_common_gardens/img-8405.jpg){group="NSFgarden"}
+![](building_the_common_gardens/img-8414.jpg){group="NSFgarden"}
+![Frustrated grad student wacking the soil](building_the_common_gardens/img-8429.jpg){group="NSFgarden"}
+
+![](building_the_common_gardens/img-8574.jpg){group="NSFgarden"}
+![](building_the_common_gardens/soil-delivery-1.jpg){group="NSFgarden"}
+![](building_the_common_gardens/unnamed_2.jpg){group="NSFgarden"}
+:::
 
 ![](./building_the_common_gardens_collage2.png){group="common-garden"}
