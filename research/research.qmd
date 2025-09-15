@@ -6,14 +6,16 @@ format:
     page-layout: full
     toc: true
     grid:
-      margin-width: 500px
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
 
-lightbox: auto
+lightbox: true
 ---  
 
 
 
-:::{.column-screen .center}
+::: {.column-screen .center}
 ![](website_banner_research_transparent_background3.png){.no-lightbox}
 :::
 
@@ -22,22 +24,19 @@ lightbox: auto
 **Status:** Ongoing      
 **Publications**     
 
-::::{layout="[ 100, 0 ]"}
+:::: {.column-screen}  
 
-:::{#first-column}
+::: {.column-margin}  
+Poplar hybridization in the Pacific Northwest.  
+![Poplar hybridization in the Pacific Northwest.](poplar_introgression.jpg)   
+
+:::
+
 While we often think of species as being reproductively isolated from one another, this is not always the case. As a consequence of weak reproductive barriers, members of different species can interbreed in nature. When hybrids between two species are fertile, hybrids may then interbreed with members of the original species in a process known as backcrossing. Multiple generations of hybridization and subsequent backcrossing can facilitate the exchange of genetic material between parental species, a process known as introgression. Much of the research conducted in the Keller lab aims to understand if this exchange of genetic material is an adaptive process. For example, does genetic variation that increases tolerance to environmental stress in one species play the same role when it is introgressed into another species?   
 
 One current area of interest in the Keller lab is the susceptibility of hybrid poplars to infection by rust fungi in the genus Melampsora. One overarching question in the lab that this work addresses is the relationship between hybridization and local adaptation. The potential roles of ancestry and adaptation to local climatic variables as indicators of disease susceptibility in common garden experiments are being investigated.  
 
-::: 
-
-
-:::{.column-margin}
-Poplar hybridization in the Pacific Northwest.  
-![Poplar hybridization in the Pacific   Northwest.](poplar_introgression.jpg){.lightbox group="poplar"}  
-
-:::  
-::::  
+::::: 
 
 
 ::::{.callout-note collapse="true" appearance="minimal} 
