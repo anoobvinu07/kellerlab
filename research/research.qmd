@@ -13,23 +13,14 @@ lightbox: auto
 
 
 
-
-
-<center>
-:::{.column-screen}
+:::{.column-screen .center}
 ![](website_banner_research_transparent_background3.png){.no-lightbox}
 :::
-</center>
 
-
-
-:::::{.column-screen}
-
-:::::
 
 ## Hybridization and Adaptive Introgression  
-Status: Ongoing      
-Publications     
+**Status:** Ongoing      
+**Publications**     
 
 ::::{layout="[ 100, 0 ]"}
 
@@ -42,32 +33,31 @@ One current area of interest in the Keller lab is the susceptibility of hybrid p
 
 
 :::{.column-margin}
-Poplar hybridization in the Pacific Northwest.
-![Poplar hybridization in the Pacific Northwest.](poplar_introgression.jpg){.lightbox group="poplar"}  
+Poplar hybridization in the Pacific Northwest.  
+![Poplar hybridization in the Pacific   Northwest.](poplar_introgression.jpg){.lightbox group="poplar"}  
 
-:::
-
-::::
+:::  
+::::  
 
 
 ::::{.callout-note collapse="true" appearance="minimal} 
 
 ## Poplar photos
 :::{layout-nrow=1}
-![Walking through the poplar garden at Vermont](./poplar/common_garden_walk.jpg){group="poplar"}
+![Walking through the poplar garden at Vermont](./poplar/common_garden_walk.jpg){group="poplar"}  
 
-![Poplar leaf miner](./poplar/poplar_leaf_miner.jpg){group="poplar"}
+![Poplar leaf miner](./poplar/poplar_leaf_miner.jpg){group="poplar"}  
 
-![Rusty poplars](./poplar/rusty.jpg){group="poplar"}
-:::
-::::
+![Rusty poplars](./poplar/rusty.jpg){group="poplar"}  
+:::  
+::::  
  
 
 
 
 ## Genomic Forecasting    
-Status: Ongoing   
-Publications   
+**Status:** Ongoing   
+**Publications**     
 
 ::::{layout="[ 100, 0 ]"}
 
@@ -80,22 +70,19 @@ Ultimately, the determination of whether offset models are any good will have to
 
 ::: 
 
-
-:::{#second-column .column-margin}
+:::{#second-column .column-margin}  
 
 Genomic forecasting workflow.
 ![Genomic forecasting workflow.](genomic_forecasting.png){.lightbox group="forecasting"}  
 
 :::
-
-
 ::::
 
 
 ## Conservation Genetics  
 
-Status: Ongoing  
-Publications    
+**Status:** Ongoing  
+**Publications**    
 
 Alpine project  
 TNC work  
@@ -115,7 +102,7 @@ Go chronologically??
 Any other works that keller lab is/was involved in
 
 
-:::{.callout-note collapse="true" appearance="minimal} 
+:::{.callout-note collapse="true" appearance="minimal}  
 
 ## Red spruce restoration in collaboration with CASRI and TNC
 
@@ -130,7 +117,7 @@ Capblancq et al. (2021) has observed that early-life fitness of the red spruce h
 
 
 ## Invasions  
-Status: Completed   
+**Status:** Completed   
 
 The movement of species into new habitats allows populations that were previously geographically isolated to reproduce with each other and create novel genotypes through hybridization. Through environmental selection, novel genotypes can result in phenotypes that increase hybrid fitness and promote biological invasions. Furthermore, hybridization between genetically distinct species can result in changes to the genome size or species ploidy, which can alter the reproduction rate and promote invasion success. The rapid evolution of hybrid species in the introduced range can lead to a drastic shift in the stable state dynamics of the ecosystem, transforming the community assembly.  
 
