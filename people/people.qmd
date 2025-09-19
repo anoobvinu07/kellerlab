@@ -23,7 +23,7 @@ subtitle: "~ the past, the present and the future collaborators "
 ::: {.column-margin}
 
 |
-![](srkeller.jpg){height=50%}
+![](srkeller.jpg){.profile-photo}
 ::: 
 
 Steve got his B.S. from Juniata College in Pennsylvania before working as a biologist for the National Park Service in Colorado. From there, he ventured northward to do a master's in biology at the University of Alaska Fairbanks with Kent Schwaegerle, where he studied breeding system evolution in arctic-alpine plants. Steve got his Ph.D. at the University of Virginia with Doug Taylor on the population genetics of invasive species, followed by postdoc research at the University of Minnesota in Peter Tiffin's lab working on population genomics in Populus. After three years (2011-2014) on the faculty at the [University of Maryland Center for Environmental Science](https://www.umces.edu), Steve joined the Department of [Plant Biology at the University of Vermont](https://www.uvm.edu/cals/plantbiology). 
@@ -45,7 +45,7 @@ Steve got his B.S. from Juniata College in Pennsylvania before working as a biol
 
 ::: {.column-margin}
 
-![](nora_heaphy.jpeg)
+![](nora_heaphy.jpeg){.profile-photo}
 
 ::: 
 |
@@ -66,7 +66,7 @@ Nora is interested in how plant live in stressful environments (especially in th
 |
 |
 |
-![](anoob_prakash.jpg)
+![](anoob_prakash.jpg){.profile-photo}
 ::: 
 
 Anoob is interested in understanding the genomics and adaptation of fragmented ecosystem to rapid climate warming. For his PhD research, Anoob is investigating range wide variation and climate change adaptation in red spruce (Picea rubens Sarg). Specifically, he utilizes population genomic and quantitative genetic approaches to understand the long- and short-term responses of long-lived tree species like red spruce to climate change and pave the way for scientifically guided conservation efforts. As part of bridging the gap between science and restoration, he did restoration monitoring of red spruce with The Nature Conservancy (TNC) as part of his NSF-funded [UVM QuEST](https://www.uvm.edu/quest) internship. Before joining Keller lab in 2018, he completed his B.Sc. (Hons.) and M.Sc. in Forestry with specialization in Tree Physiology and Breeding at Kerala Agricultural University. During that time, he investigated the effects of particulate pollution on the growth and physiology of trees in moist deciduous forests. 
@@ -86,7 +86,7 @@ Anoob is interested in understanding the genomics and adaptation of fragmented e
 |
 |
 
-![](baxter_worthing.jpg)
+![](baxter_worthing.jpg){.profile-photo}
 ::: 
 
 Baxter uses genetics and genomics to study two species of poplar tree: balsam poplar (Populus balsamifera) and black cottonwood (Populus trichocarpa). The goal of his research is to identify and untangle the genetic and environmental factors that influence adaptively important traits such as phenology and freezing tolerance, and to predict how these traits may respond to changing climates. Furthermore, P. balsamifera and P. trichocarpa hybridize in nature, a process that facilitates the transfer of genetic variation between species and that likely underlies adaptive phenotypic variation. To account for the geographic and genetic diversity, Baxter conducts his research using hundreds trees sampled from the wild and clonally propagated in common gardens at UVM and other locations across the country. He is combining observations of these trees with rich environmental and genetic data in order to better understand the complex interactions between genomics and ecology.  
@@ -103,9 +103,24 @@ Baxter uses genetics and genomics to study two species of poplar tree: balsam po
 ::: {.column-margin}
 |
 |
-![](rei_jia.jpg)
+![](rei_jia.jpg){.profile-photo}
 ::: 
 Rei is a [U.S. Department of Energy ORISE Fellow](https://orise.orau.gov/internships-fellowships/index.html) at the U.S. Forest Service Northeast Research Station working in the lab of [Dr. Andrew Groover](https://www.fs.usda.gov/research/about/people/agroover). She graduated from the University of Vermont with a B.S. in Wildlife Biology and earned a M.S. in Biology from Tufts University in 2023. While at Tufts, she worked in Dr. Benjamin Wolfe’s lab researching plant and soil microbiology. While an ORISE fellow with Andrew, she has been an honorary member of the Keller Lab, participating in lab group discussions and activities in the field and lab, particularly on extracting RNA from poplar leaf tissue to look at transcriptomic response to cold stress.   
+
+::::
+
+## Undergraduate Students  
+
+### Sophia Brusch
+**Undergraduate Researcher** \| [![email](email.png)](mailto:sophia.brusch@uvm.edu)  
+
+::::: {.column-screen}
+::: {.column-margin}
+
+![](sophia_brusch.jpg){.profile-photo}
+::: 
+|
+Christa is interested in studying population genomics to contribute to the knowledge that helps people make informed decisions to protect our landscapes in a changing climate. Since joining the lab as a technician in 2024, she worked on the alpine population genetics project, a spruce hybridization project, an assisted migration project, and a poplar gene expression project. She strives to support the other members of the lab, whether through field sample collection across the north east, wet lab procedures, plant propagation, or general lab management. Before joining the Keller lab, she completed her BS in Plant Biology at UVM in 2023. As an undergraduate, she worked on a _Brachypodium vernalization_ genetics project in the Preston Lab. She has also worked in the Connecticut Agricultural Experiment Station and for the Vermont Agency of Agriculture, Food and Markets.     
 
 ::::
 
@@ -121,7 +136,7 @@ Rei is a [U.S. Department of Energy ORISE Fellow](https://orise.orau.gov/interns
 
 ::: {.column-margin}
 
-![](christa_lessing.jpg)
+![](christa_lessing.jpg){.profile-photo}
 ::: 
 |
 Christa is interested in studying population genomics to contribute to the knowledge that helps people make informed decisions to protect our landscapes in a changing climate. Since joining the lab as a technician in 2024, she worked on the alpine population genetics project, a spruce hybridization project, an assisted migration project, and a poplar gene expression project. She strives to support the other members of the lab, whether through field sample collection across the north east, wet lab procedures, plant propagation, or general lab management. Before joining the Keller lab, she completed her BS in Plant Biology at UVM in 2023. As an undergraduate, she worked on a _Brachypodium vernalization_ genetics project in the Preston Lab. She has also worked in the Connecticut Agricultural Experiment Station and for the Vermont Agency of Agriculture, Food and Markets.     

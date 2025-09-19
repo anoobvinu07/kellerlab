@@ -219,3 +219,16 @@ div.quarto-about-jolla .about-link {
   transform: scale(3.04);
 }
 
+// profile photo layout 
+.profile-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 180px;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 40% / 25%;      /* makes the photo circular */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.profile-photo:hover {
+  transform: scale(1.50);  /* slight zoom on hover */
+}
