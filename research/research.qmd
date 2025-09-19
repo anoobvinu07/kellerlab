@@ -19,6 +19,7 @@ lightbox: auto
 ![](website_banner_research_transparent_background3.png){.no-lightbox}
 :::
 
+# Research themes  
 
 ## Hybridization and Adaptive Introgression  
 **Status:** Ongoing      
@@ -40,21 +41,6 @@ One current area of interest in the Keller lab is the susceptibility of hybrid p
 ::::: 
 
 
-::::{.callout-note collapse="true" appearance="minimal} 
-
-## Poplar photos
-:::{layout-nrow=1}
-![Walking through the poplar garden at Vermont](./poplar/common_garden_walk.jpg){group="poplar"}  
-
-![Poplar leaf miner](./poplar/poplar_leaf_miner.jpg){group="poplar"}  
-
-![Rusty poplars](./poplar/rusty.jpg){group="poplar"}  
-:::  
-::::  
- 
-
-
-
 ## Genomic Forecasting    
 **Status:** Ongoing   
 **Publications**     
@@ -73,29 +59,76 @@ In addition to building and refining the computational pipeline of genomic offse
 
 :::: 
 
+## Invasions  
+**Status:** Completed   
 
-## Conservation Genetics  
+The movement of species into new habitats allows populations that were previously geographically isolated to reproduce with each other and create novel genotypes through hybridization. Through environmental selection, novel genotypes can result in phenotypes that increase hybrid fitness and promote biological invasions. Furthermore, hybridization between genetically distinct species can result in changes to the genome size or species ploidy, which can alter the reproduction rate and promote invasion success. The rapid evolution of hybrid species in the introduced range can lead to a drastic shift in the stable state dynamics of the ecosystem, transforming the community assembly.  
+
+Past research has largely focused on the effects of hybridization in Centaura × moncktonii (*C. jacea × C. nigra*), a plant invasive to North America known as Japanese knapweed. Using a combination of field collections at hybrid zones in eastern North America and the Pacific northwest.   
+
+An assessment of the genome size, degree of introgression, and species traits reveals that hybrid individuals have smaller genomes and capitula traits that promote reproductive success, indicating that admixture of _C. jacea_ and _C. nigra_ can generate invasive genotypes that are environmentally selected for. 
+
+
+ 
+
+# Research systems  
+
+## Poplar  
+**Status:** Ongoing      
+**Publications**     
+
+:::: {.column-screen}  
+
+::: {.column-margin}  
+Stomatal patterning of Poplar leaf.   
+![Stomatal patterning of Poplar leaf.](./poplar/img1.png){.lightbox group="Introgression"}   
+
+:::
+
+Poplar is an established model system for tree genomics, and P. trichocarpa was the first tree to have its full genome sequenced. Whereas poplar populations harbor rich genetic diversity, and hybridization between poplar species is both common in the wild and a key aspect of poplar breeding programs, conventional approaches to genomic analysis, which generally depend on a reference genome from a single individual, are poorly suited to poplar genomics. In the Keller Lab, we have gone to great lengths to overcome this issue by leveraging the growing field of pan-genomics. 
+
+In the Keller Lab, research on hybridized poplar trees investigates the genetic and physiological trade-offs associated with increased photosynthetic efficiency and susceptibility to disease. F1 hybrids often display heterosis, resulting in traits such as increased stomatal density and larger stomatal pore sizes, which significantly enhance photosynthetic rates and industrial yield. These traits are relevant for applications such as biofuel and the paper production. However, this increased productivity is associated with a trade-off in reduced disease resistance to Melampsora, a rust pathogen commonly affecting poplar species. The current study aims to find the genetic basis of these trade-offs and to identify hybrids that retain high industrial yields while mitigating susceptibility to disease.   
+
+Leaf samples from F1 hybrids were collected at the UVM Horticulture Farm and analyzed for photosynthetic efficiency. Stomatal patterning, a key factor influencing both photosynthesis and pathogen susceptibility, is assessed through microscopic analysis of leaf imprints at 40x magnification. In addition to phenotypic analysis, RNAseq data from young hybrid leaves was utilized to identify genes involved in stomatal patterning and disease resistance. Field assessments of Melampsora rust severity were conducted by visually rating the extent of infection in each hybrid. This disease severity data, in combination with stomatal trait analysis and sequencing data, will provide insights into the genetic determinants of rust resistance. By correlating phenotypic and genotypic data, the study aims to identify specific genetic markers that can inform future breeding efforts to develop hybrid poplar varieties that balance enhanced productivity with improved disease resistance. 
+
+::::: 
+
+::::{.callout-note collapse="true" appearance="minimal} 
+
+## Poplar photos
+:::{layout-nrow=1}
+![Walking through the poplar garden at Vermont](./poplar/common_garden_walk.jpg){group="poplar"}  
+
+![Poplar leaf miner](./poplar/poplar_leaf_miner.jpg){group="poplar"}  
+
+![Rusty poplars](./poplar/rusty.jpg){group="poplar"}  
+:::  
+::::  
+
+## Red spruce    
 
 **Status:** Ongoing  
 **Publications**    
 
-Alpine project  
-TNC work  
-One of the biggest aims of Keller lab is to disseminate the findings of the scientific research to the broader community as well as to help inform conservation and restoration efforts on the ground. In this pursuit, Keller lab has partnered with The Nature Conservancy, Central Appalachian Spruce Restoration Initiative (CASRI), …… UMCES folks. Some of the major conservation  genetics research carried out by the Keller lab are listed below:  
+### Rangewide population genetics and local adaptation  
 
+Red spruce (Picea rubens) is an ecologically important conifer adapted to cool, moist, high-elevation sites mainly in the northeastern U.S. and southeastern Canada, but the southern tail of the range extends down into fragmented mountaintop populations in  the Central and Southern Appalachians. Red spruce provides timber, critical habitat for rare and endemic wildlife species, and recreational value to humans. Our lab has explored how population size, range limits, and genetic diversity have impacted local adaptation to climate across red spruce’s range. [Anoob’s Proc Soc B paper, Thibaut’s papers]   
 
-The alpine project details: Steve  
+### Hybridization and adaptive introgression  
 
-Spruce orchard??  
+For long-lived species with low genetic diversity, introgression—the transfer of genetic material from one lineage into the genome of another through repeated backcrossing—can be a powerful source of adaptive variation in the face of climate change. Red spruce hybridizes with its sister species black spruce (Picea mariana), and most red spruce trees found in the overlap between the two species’ ranges derive significant portions of their genome from past hybridization with black spruce. Recent work by our lab suggests that introgression from black spruce plays a key role in supporting red spruce’s capacity to adapt to climate gradients across its range [Anoob’s adaptive introgression paper here]. We use a combination of spatial modeling and landscape and population genomics to characterize the spatial and temporal natural history of hybridization, understand the role of selection in preserving introgressed regions of the genome, and determine under what conditions this introgression may be adaptive. We are also establishing a provenance trial of red and black spruce hybrids, which will serve as a long-term resource for linking the genomics of hybridization with adaptive traits.  
 
-   
+### Applied conservation   
 
-Wind power and bats: ?? UMCES lab
+One of our lab’s major goals is to disseminate the findings of the scientific research to the broader community to inform conservation and restoration efforts on the ground. Red spruce is a species of conservation concern due to high climate change vulnerability and is the focus of several major restoration initiatives, notably the Central Appalachian Red Spruce Restoration Initiative (CASRI) and the Southern Appalachian Red Spruce Restoration Initiative (SASRI), which have planted tens of thousands of seedlings supported by The Nature Conservancy.  
 
-Go chronologically??
+### Spruce orchard project
 
-Any other works that keller lab is/was involved in
+In a project funded by the USDA-FS Forest Health Protection program, we are applying the genomic offset model, a method for forecasting genomic maladaptation to climate change, to establish a red spruce seed orchard in the Green Mountain National Forest. Forest managers have traditionally applied a “local is best” framework when choosing where to source seeds for restoration plantings. However, the genotypes currently found in a particular region may not be the ones best adapted to survive the future climate conditions that the region is likely to experience by the end of the century. We have sourced red spruce cuttings from trees that capture a diversity of genotypes predicted by our genomic offset models to be well-adapted to future climates in New England. Once the grafted seedlings become reproductive in 5-7 years, they will produce significant quantities of future climate-adapted seed to support reforestation and assisted migration plantings, a key need expressed by conservation partners in a workshop on red spruce hosted by our lab group in 2021.  
 
+### Assisted migration project  
+
+We are working with our partners at The Nature Conservancy, the U.S. Fish and Wildlife Service, and the Vermont Agency of Natural Resources to collect seedling performance data from a network of recently established assisted migration field trials.  
 
 :::{.callout-note collapse="true" appearance="minimal}  
 
@@ -111,17 +144,47 @@ Capblancq et al. (2021) has observed that early-life fitness of the red spruce h
 :::
 
 
-## Invasions  
-**Status:** Completed   
 
-The movement of species into new habitats allows populations that were previously geographically isolated to reproduce with each other and create novel genotypes through hybridization. Through environmental selection, novel genotypes can result in phenotypes that increase hybrid fitness and promote biological invasions. Furthermore, hybridization between genetically distinct species can result in changes to the genome size or species ploidy, which can alter the reproduction rate and promote invasion success. The rapid evolution of hybrid species in the introduced range can lead to a drastic shift in the stable state dynamics of the ecosystem, transforming the community assembly.  
+## Northeast Alpine   
+**Status:** Ongoing   
 
-Past research has largely focused on the effects of hybridization in Centaura × moncktonii (*C. jacea × C. nigra*), a plant invasive to North America known as Japanese knapweed. Using a combination of field collections at hybrid zones in eastern North America and the Pacific northwest.   
+::: {.column-margin}  
 
-An assessment of the genome size, degree of introgression, and species traits reveals that hybrid individuals have smaller genomes and capitula traits that promote reproductive success, indicating that admixture of _C. jacea_ and _C. nigra_ can generate invasive genotypes that are environmentally selected for. 
+![](./alpine/img1.png){.lightbox group="alpine"}  
+  
+  
+   
+![](./alpine/img2.jpg){.lightbox group="alpine"} 
+
+:::
+
+The northeastern North American alpine habitat, home to regionally rare and vulnerable species, occurs at high elevation in spatially isolated mountain regions. Since glacial retreat ~13,000 years ago, communities of alpine plants have shifted as highly connected tundra landscapes have retreated into today’s fragmented “sky islands” of various sizes. We have yet to understand the underlying adaptive mechanisms responsible for the persistence of alpine plants despite dramatic shifts in climate, though the genomic diversity of these plant communities have likely been shaped by this biogeographic history.  
 
 
+The potential impacts of climate change on northeastern alpine plants is a topic of considerable conservation concern. Little is known about levels of adaptive capacity within alpine plant populations, their degree of resilience or susceptibility to changes in climate, and how these might vary from peak to peak across the northeast. Thus, there is a need for studies investigating how the fitness of alpine plants may be driven by local adaptation or genetic variability in trait plasticity (GxE) to determine the vulnerability or resilience of these communities to climate change.  
 
+
+This project, funded by the [National Science Foundation Biodiversity on a Changing Planet](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326021) program, links paleoecology, community ecology, trait ecology, population genomics, and physical geography to identify the mechanisms underlying the persistence of tundra relics in Northeast alpine zones since deglaciation. By integrating these approaches, we aim to develop a process-based understanding of how Northeast alpine plant communities assembled, and how these communities persisted through past climate changes as an integration of species, traits, and genes. Our research area focuses on four alpine regions in Northeastern US: the Adirondacks (NY), the Green Mountains (VT), the White Mountains (NH), and Katahdin (ME). 
+
+**Collaborators:**   
+
+- [Miereles Lab (University of Maine, Orono)](https://www.meireleslab.org/#)  
+- [Rominger Lab (University of Hawaiʻi at Mānoa)](https://www.ecoevomatics.org/)  
+- [BEAST Lab (University of Maine, Orono)](https://jacquelyngill.wordpress.com/)  
+- [Dr. Caitlin McDonough MacKenzie](https://www.cmmackenzie.com/)  
+- [Dr. Isaac Overcast](https://isaacovercast.github.io/)   
+
+::::{.callout-note collapse="true" appearance="minimal} 
+
+## Alpine photos
+:::{layout-nrow=1}
+![](./alpine/img3.jpg){group="alpine"}  
+
+![](./alpine/img4.jpg){group="alpine"}   
+
+![](./alpine/img5.jpg){group="alpine"}   
+:::  
+::::  
 
 
 
