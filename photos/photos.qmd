@@ -10,6 +10,45 @@ format:
 
 <!-- [course website](https://samanthacsik.github.io/EDS-240-data-viz/){.btn target=_blank} [course catalog](https://bren.ucsb.edu/courses/eds-240){.btn target=_blank} -->
 
+## Alaska 2022   
+
+![](alaska_2022/panorama.jpg){width=82% .lightbox group="alaska"}
+
+::: {.photo-grid}
+
+
+![](alaska_2022/img1.jpg)
+![](alaska_2022/img2.jpg)
+![](alaska_2022/img3.jpg)
+![](alaska_2022/img4.jpg)
+![](alaska_2022/img5.jpg)
+![](alaska_2022/img6.jpg)
+![](alaska_2022/img7.jpg)
+![](alaska_2022/img8.jpg)
+![](alaska_2022/img9.jpg)
+![](alaska_2022/img10.jpg)
+![](alaska_2022/img11.jpg)
+![](alaska_2022/img12.jpg)
+![](alaska_2022/img13.jpg)
+![](alaska_2022/img14.jpg)
+![](alaska_2022/img15.jpg)
+![](alaska_2022/img16.jpg)
+
+:::
+
+## Poplar garden  
+
+::: {.photo-grid}
+
+![](poplar_garden/img1.jpg)
+![](poplar_garden/img2.jpg)
+![](poplar_garden/img3.jpg)
+![](poplar_garden/img4.jpg)
+![](poplar_garden/img5.jpg)
+![](poplar_garden/img6.jpg)
+
+:::
+
 
 ## Planting the Common Gardens  
 
@@ -27,7 +66,6 @@ format:
 ![Vermont common garden team](building_the_common_gardens/group-photo.jpg)
 ![](building_the_common_gardens/img-20180924-114625095_1.jpg)
 ![12,000 pounds of soil!!](building_the_common_gardens/img-8405.jpg)
-![](building_the_common_gardens/img-8414.jpg)
 ![](building_the_common_gardens/img-8414.jpg)
 ![Frustrated grad student wacking the soil](building_the_common_gardens/img-8429.jpg)
 ![](building_the_common_gardens/soil-delivery-1.jpg)

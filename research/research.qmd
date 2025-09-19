@@ -16,7 +16,7 @@ lightbox: auto
 
 
 ::: {.column-screen .center}
-![](website_banner_research_transparent_background3.png){.no-lightbox}
+![](website_banner_research_transparent_background3.png){.nolightbox}
 :::
 
 # Research themes  
