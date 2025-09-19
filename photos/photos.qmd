@@ -31,10 +31,15 @@ format:
 ![](spruce_orchard/img2.jpeg){.lightbox group="orchard"}
 ![](spruce_orchard/img3.jpeg){.lightbox group="orchard"}
 ![](spruce_orchard/img4.jpeg){.lightbox group="orchard"}
-![](spruce_orchard/img5.jpeg){.lightbox group="orchard"}
+:::
+
+::: {.photo-grid}
 ![](spruce_orchard/img6.jpeg){.lightbox group="orchard"}
-![](spruce_orchard/img7.jpg){.lightbox group="orchard"}
+![](spruce_orchard/img5.jpeg){.lightbox group="orchard"}
 ![](spruce_orchard/img8.jpg){.lightbox group="orchard"}
+![](spruce_orchard/img7.jpg){.lightbox group="orchard"}
+:::
+::: {.photo-grid}
 ![](spruce_orchard/img9.jpeg){.lightbox group="orchard"}
 ![](spruce_orchard/img10.jpg){.lightbox group="orchard"}
 ![](spruce_orchard/img11.JPG){.lightbox group="orchard"}
@@ -51,24 +56,30 @@ format:
 ```
 
 ::: {.photo-grid}
-
-
 ![](alaska_2022/img1.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img2.jpg){.lightbox group="alaska"}
+![](alaska_2022/img15.jpg){.lightbox group="alaska"}
+![](alaska_2022/img16.jpg){.lightbox group="alaska"}
+:::
+
+::: {.photo-grid}
 ![](alaska_2022/img3.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img4.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img5.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img6.jpg){.lightbox group="alaska"}
+:::
+::: {.photo-grid}
 ![](alaska_2022/img7.jpg){.lightbox group="alaska"}
-![](alaska_2022/img8.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img10.jpg){.lightbox group="alaska"}
+![](alaska_2022/img8.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img9.jpg){.lightbox group="alaska"}
+:::
+::: {.photo-grid}
 ![](alaska_2022/img11.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img12.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img13.jpg){.lightbox group="alaska"}
 ![](alaska_2022/img14.jpg){.lightbox group="alaska"}
-![](alaska_2022/img15.jpg){.lightbox group="alaska"}
-![](alaska_2022/img16.jpg){.lightbox group="alaska"}
+
 
 :::
 
@@ -79,8 +90,10 @@ format:
 ![](poplar_garden/img1.jpg){.lightbox group="poplar"}
 ![](poplar_garden/img2.jpg){.lightbox group="poplar"}
 ![](poplar_garden/img3.jpg){.lightbox group="poplar"}
-![](poplar_garden/img4.jpg){.lightbox group="poplar"}
 ![](poplar_garden/img5.jpg){.lightbox group="poplar"}
+:::
+::: {.photo-grid}
+![](poplar_garden/img4.jpg){.lightbox group="poplar"}
 ![](poplar_garden/img6.jpg){.lightbox group="poplar"}
 ![](poplar_garden/img7.jpeg){.lightbox group="poplar"}
 ![](poplar_garden/img8.jpeg){.lightbox group="poplar"}
@@ -88,17 +101,22 @@ format:
 :::
 
 
-## Spruce Garden  
+## Spruce Gardens  
 
 ::: {.photo-grid}
 ![](spruce_garden/img6.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img2.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img4.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img3.jpg){.lightbox group="spruce"}
+:::
+
+::: {.photo-grid}
 ![](spruce_garden/img5.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img7.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img8.jpeg){.lightbox group="spruce"}
 ![](spruce_garden/img9.jpeg){.lightbox group="spruce"}
+:::
+::: {.photo-grid}
 ![](spruce_garden/harvest.gif){.lightbox group="spruce"}
 ![](spruce_garden/img12.jpg){.lightbox group="spruce"}
 ![](spruce_garden/img1.jpg){.lightbox group="spruce"}
@@ -107,21 +125,25 @@ format:
 
 
 
-## Building the Common Gardens 
+## Building the Common Garden 
 
 ::: {.photo-grid}
 ![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){.lightbox group="CG"}
 ![We would be lost without John](building_the_common_gardens/function.jpg){.lightbox group="CG"}
 ![](building_the_common_gardens/img-20180924-114625095_1.jpg){.lightbox group="CG"}
 ![12,000 pounds of soil!!](building_the_common_gardens/img-8405.jpg){.lightbox group="CG"}
+:::
+::: {.photo-grid}
 ![Frustrated grad student wacking the soil](building_the_common_gardens/img-8429.jpg){.lightbox group="CG"}
 ![](building_the_common_gardens/img-8414.jpg){.lightbox group="CG"}
-![Vermont common garden team](building_the_common_gardens/group-photo.jpg){.lightbox group="CG"}
-![](building_the_common_gardens/unnamed_2.jpg){.lightbox group="CG"}
 ![](building_the_common_gardens/john.jpg){.lightbox group="CG"}
 ![](building_the_common_gardens/sonia.jpg){.lightbox group="CG"}
+:::
+::: {.photo-grid}
 ![](building_the_common_gardens/brit.jpg){.lightbox group="CG"}
 ![](building_the_common_gardens/working.jpg){.lightbox group="CG"}
+![Vermont common garden team](building_the_common_gardens/group-photo.jpg){.lightbox group="CG"}
+![](building_the_common_gardens/unnamed_2.jpg){.lightbox group="CG"}
 :::
 
 ## Keller lab over the years 
@@ -132,10 +154,14 @@ format:
 ![](time_line/img1.jpg){.lightbox group="timeless"}
 ![](time_line/img2.jpg){.lightbox group="timeless"}
 ![](time_line/img3.jpg){.lightbox group="timeless"}
+:::
+::: {.photo-grid}
 ![](time_line/img4.jpg){.lightbox group="timeless"}
 ![](time_line/img5.jpg){.lightbox group="timeless"}
 ![](time_line/img6.jpg){.lightbox group="timeless"}
 ![](time_line/img7.jpg){.lightbox group="timeless"}
+:::
+::: {.photo-grid}
 ![](time_line/img8.jpg){.lightbox group="timeless"}
 ![](time_line/img10.jpg){.lightbox group="timeless"}
 ![](time_line/img11.jpg){.lightbox group="timeless"}
