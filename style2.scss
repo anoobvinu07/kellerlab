@@ -202,11 +202,13 @@ div.quarto-about-jolla .about-link {
 
 
 // photo gallery layout 
+// photo grid
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(18px, 5fr));
   gap: 1em;
   margin: 2em 0;
+  justify-content: center; /* centers the grid horizontally */
 }
 
 .photo-grid img {
@@ -218,6 +220,8 @@ div.quarto-about-jolla .about-link {
 .photo-grid img:hover {
   transform: scale(3.04);
 }
+
+
 
 // profile photo layout 
 .profile-photo {
@@ -232,3 +236,35 @@ div.quarto-about-jolla .about-link {
 .profile-photo:hover {
   transform: scale(1.50);  /* slight zoom on hover */
 }
+
+// panorama photo layout
+.panorama-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 8px;      /* makes the photo circular */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.panorama-photo:hover {
+  transform: scale(2.50);  /* zoom on hover */
+}
+
+
+// margin photo layout
+
+// profile photo layout 
+.margin-photo {
+  display: block;
+  margin: 2em auto;        /* centers the image horizontally */
+  width: 100%;            /* sets a fixed width for the profile photo */
+  max-width: 100%;         /* makes the photo responsive */
+  border-radius: 8px;      
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* adds subtle shadow */
+  transition: transform 0.2s;
+}
+.margin-photo:hover {
+  transform: scale(1.50);  /* zoom on hover */
+}
+
