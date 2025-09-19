@@ -20,20 +20,20 @@ format:
 ## Building the Common Gardens 
 
 ### Version 1
-::: {.photo-grid}
-![Vermontian Gothic](building_the_common_gardens/americangothic.jpg){.lightbox group="NSFgarden"}
-![We would be lost without John](building_the_common_gardens/function.jpg){.lightbox group="NSFgarden"}
-![Vermont common garden team](building_the_common_gardens/group-photo.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/img-20180924-114625095_1.jpg){.lightbox group="NSFgarden"}
-![12,000 pounds of soil!!](building_the_common_gardens/img-8405.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/img-8414.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/img-8414.jpg){.lightbox group="NSFgarden"}
-![Frustrated grad student wacking the soil](building_the_common_gardens/img-8429.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/img-8574.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/soil-delivery-1.jpg){.lightbox group="NSFgarden"}
-![](building_the_common_gardens/unnamed_2.jpg){.lightbox group="NSFgarden"}
-:::
 
+::: {.photo-grid}
+![Vermontian Gothic](building_the_common_gardens/americangothic.jpg)
+![We would be lost without John](building_the_common_gardens/function.jpg)
+![Vermont common garden team](building_the_common_gardens/group-photo.jpg)
+![](building_the_common_gardens/img-20180924-114625095_1.jpg)
+![12,000 pounds of soil!!](building_the_common_gardens/img-8405.jpg)
+![](building_the_common_gardens/img-8414.jpg)
+![](building_the_common_gardens/img-8414.jpg)
+![Frustrated grad student wacking the soil](building_the_common_gardens/img-8429.jpg)
+![](building_the_common_gardens/img-8574.jpg)
+![](building_the_common_gardens/soil-delivery-1.jpg)
+![](building_the_common_gardens/unnamed_2.jpg)
+:::
 
 ### Version 2
 
